@@ -225,6 +225,7 @@ markers:
       ', id: KR4d0473_SBCK_035-bkkkrnewl53}
   - {type: line-break, offset: 653, content: '', id: KR4d0473_SBCK_035-3a10}
   - {type: punctuation, offset: 654, content: (, id: KR4d0473_SBCK_035-bkkpn1}
+  - {type: voice, offset: 654, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 656, content: ), id: KR4d0473_SBCK_035-bkkpn2}
   - {type: 'kr:newline', offset: 669, content: '
 
@@ -315,6 +316,7 @@ markers:
   - {type: line-break, offset: 897, content: '', id: KR4d0473_SBCK_035-4a09}
   - {type: indent, offset: 897, content: 　　　, id: KR4d0473_SBCK_035-bkkind9}
   - {type: punctuation, offset: 902, content: (, id: KR4d0473_SBCK_035-bkkpn3}
+  - {type: voice, offset: 902, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 906, content: /, id: KR4d0473_SBCK_035-bkkpn4}
   - {type: punctuation, offset: 911, content: ), id: KR4d0473_SBCK_035-bkkpn5}
   - {type: 'kr:newline', offset: 911, content: '
@@ -407,6 +409,7 @@ markers:
   - {type: line-break, offset: 1186, content: '', id: KR4d0473_SBCK_035-5a09}
   - {type: indent, offset: 1186, content: 　　　, id: KR4d0473_SBCK_035-bkkind10}
   - {type: punctuation, offset: 1191, content: (, id: KR4d0473_SBCK_035-bkkpn6}
+  - {type: voice, offset: 1191, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 1195, content: /, id: KR4d0473_SBCK_035-bkkpn7}
   - {type: punctuation, offset: 1200, content: ), id: KR4d0473_SBCK_035-bkkpn8}
   - {type: 'kr:newline', offset: 1200, content: '
@@ -658,6 +661,7 @@ markers:
   - {type: line-break, offset: 1868, content: '', id: KR4d0473_SBCK_035-8a02}
   - {type: indent, offset: 1868, content: 　　　, id: KR4d0473_SBCK_035-bkkind22}
   - {type: punctuation, offset: 1870, content: (, id: KR4d0473_SBCK_035-bkkpn9}
+  - {type: voice, offset: 1870, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 1872, content: ), id: KR4d0473_SBCK_035-bkkpn10}
   - {type: 'kr:newline', offset: 1872, content: '
 
@@ -1845,4 +1849,4 @@ markers:
 
       ', id: KR4d0473_SBCK_035-bkkkrnewl430}
   back: []
-hash: sha256:237dc64630191c6234e5f351675082ab9e90438f11d1aae68b69cfd4d61f3026
+hash: sha256:92deae36fba4097c5fa890cf149631844d4ab7a9db4b06b2edf6bf1c9bdc51f0

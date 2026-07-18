@@ -2982,6 +2982,7 @@ markers:
   - {type: line-break, offset: 814, content: '', id: KR4d0473_SBCK_050-3b08}
   - {type: punctuation, offset: 814, content: (, id: KR4d0473_krp_050-bkkpn1}
   - {type: variant, offset: 814, length: 0, content: '', WYG: 某伏以即日毒暑在候正君子}
+  - {type: voice, offset: 814, length: 206, name: note, id: n1}
   - {type: substitution, offset: 825, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 826, content: /, id: KR4d0473_krp_050-bkkpn2}
   - {type: variant, offset: 826, length: 24, content: 某伏以即日毒暑在候正君子繁福某歸老山林一念不作殊, WYG: ''}
@@ -3829,6 +3830,7 @@ markers:
   - {type: variant, offset: 2710, length: 1, content: 巽, WYG: 㢲}
   - {type: punctuation, offset: 2717, content: (, id: KR4d0473_krp_050-bkkpn28}
   - {type: variant, offset: 2717, length: 2, content: 有跋, WYG: ''}
+  - {type: voice, offset: 2717, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 2719, content: /, id: KR4d0473_krp_050-bkkpn29}
   - {type: punctuation, offset: 2722, content: ), id: KR4d0473_krp_050-bkkpn30}
   - {type: 'kr:newline', offset: 2722, content: '
@@ -6472,4 +6474,4 @@ markers:
 
       ', id: KR4d0473_krp_050-bkkkrnewl620}
   back: []
-hash: sha256:565583af90468a4b08c65fa86a2258ba2d531c298dd451a51c50c8d8c3acceaf
+hash: sha256:f3684e58d23ca68d14c31f66e2d29cd4582e2ac98545ca271f21e32dcdba445a

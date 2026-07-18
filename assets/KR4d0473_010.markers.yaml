@@ -17,6 +17,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0473_SBCK_010-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4d0473_krp_010-bkkind1}
   - {type: punctuation, offset: 2, content: (, id: KR4d0473_krp_010-bkkpn1}
+  - {type: voice, offset: 2, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 4, content: ), id: KR4d0473_krp_010-bkkpn2}
   - {type: 'kr:newline', offset: 4, content: '
 
@@ -1049,6 +1050,7 @@ markers:
   - {type: line-break, offset: 2267, content: '', id: KR4d0473_SBCK_010-9b10}
   - {type: punctuation, offset: 2281, content: (, id: KR4d0473_krp_010-bkkpn3}
   - {type: variant, offset: 2281, length: 0, content: '', WYG: 乃兄}
+  - {type: voice, offset: 2281, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 2283, content: /, id: KR4d0473_krp_010-bkkpn4}
   - {type: variant, offset: 2283, length: 4, content: 乃兄夀母, WYG: ''}
   - {type: punctuation, offset: 2285, content: ), id: KR4d0473_krp_010-bkkpn5}
@@ -1272,6 +1274,7 @@ markers:
   - {type: line-break, offset: 2743, content: '', id: KR4d0473_SBCK_010-11b06}
   - {type: punctuation, offset: 2746, content: (, id: KR4d0473_krp_010-bkkpn9}
   - {type: variant, offset: 2746, length: 0, content: '', WYG: 有乗馬入廟}
+  - {type: voice, offset: 2746, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 2751, content: /, id: KR4d0473_krp_010-bkkpn10}
   - {type: variant, offset: 2751, length: 5, content: 有乗馬入廟, WYG: ''}
   - {type: substitution, offset: 2752, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
@@ -1521,6 +1524,7 @@ markers:
   - {type: substitution, offset: 3285, original: 隠, replacement: 隱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20614}}
   - {type: punctuation, offset: 3289, content: (, id: KR4d0473_krp_010-bkkpn12}
   - {type: variant, offset: 3289, length: 2, content: 曾孫, WYG: ''}
+  - {type: voice, offset: 3289, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 3291, content: /, id: KR4d0473_krp_010-bkkpn13}
   - {type: substitution, offset: 3291, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 3294, content: ), id: KR4d0473_krp_010-bkkpn14}
@@ -1614,6 +1618,7 @@ markers:
   - {type: variant, offset: 3467, length: 1, content: 釆, WYG: 采}
   - {type: punctuation, offset: 3473, content: (, id: KR4d0473_krp_010-bkkpn15}
   - {type: variant, offset: 3473, length: 0, content: '', WYG: 鳬茈一名翦刀一名}
+  - {type: voice, offset: 3473, length: 21, name: note, id: n5}
   - {type: variant, offset: 3475, length: 1, content: 尓, WYG: 爾}
   - {type: punctuation, offset: 3481, content: /, id: KR4d0473_krp_010-bkkpn16}
   - {type: variant, offset: 3481, length: 10, content: 鳬茈一名剪刀一名採食, WYG: ''}
@@ -1792,6 +1797,7 @@ markers:
   - {type: indent, offset: 3859, content: 　　　, id: KR4d0473_krp_010-bkkind59}
   - {type: punctuation, offset: 3863, content: (, id: KR4d0473_krp_010-bkkpn21}
   - {type: variant, offset: 3863, length: 0, content: '', WYG: 王中}
+  - {type: voice, offset: 3863, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 3865, content: /, id: KR4d0473_krp_010-bkkpn22}
   - {type: variant, offset: 3865, length: 2, content: 王中, WYG: ''}
   - {type: punctuation, offset: 3867, content: ), id: KR4d0473_krp_010-bkkpn23}
@@ -1826,6 +1832,7 @@ markers:
   - {type: line-break, offset: 3923, content: '', id: KR4d0473_SBCK_010-16a06}
   - {type: indent, offset: 3923, content: 　　　, id: KR4d0473_krp_010-bkkind60}
   - {type: punctuation, offset: 3925, content: (, id: KR4d0473_krp_010-bkkpn24}
+  - {type: voice, offset: 3925, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 3926, content: ), id: KR4d0473_krp_010-bkkpn25}
   - {type: 'kr:newline', offset: 3929, content: '
 
@@ -1941,6 +1948,7 @@ markers:
   - {type: variant, offset: 4179, length: 1, content: 眀, WYG: 明}
   - {type: punctuation, offset: 4185, content: (, id: KR4d0473_krp_010-bkkpn26}
   - {type: variant, offset: 4185, length: 3, content: 丹淵集, WYG: ''}
+  - {type: voice, offset: 4185, length: 7, name: note, id: n8}
   - {type: punctuation, offset: 4188, content: /, id: KR4d0473_krp_010-bkkpn27}
   - {type: punctuation, offset: 4192, content: ), id: KR4d0473_krp_010-bkkpn28}
   - {type: 'kr:newline', offset: 4192, content: '
@@ -1997,6 +2005,7 @@ markers:
   - {type: variant, offset: 4300, length: 1, content: 冥, WYG: 𡨕}
   - {type: punctuation, offset: 4304, content: (, id: KR4d0473_krp_010-bkkpn29}
   - {type: variant, offset: 4304, length: 1, content: 影, WYG: ''}
+  - {type: voice, offset: 4304, length: 3, name: note, id: n9}
   - {type: punctuation, offset: 4305, content: /, id: KR4d0473_krp_010-bkkpn30}
   - {type: punctuation, offset: 4307, content: ), id: KR4d0473_krp_010-bkkpn31}
   - {type: 'kr:newline', offset: 4307, content: '
@@ -2052,6 +2061,7 @@ markers:
   - {type: substitution, offset: 4416, original: 个, replacement: 個, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16172}}
   - {type: punctuation, offset: 4419, content: (, id: KR4d0473_krp_010-bkkpn32}
   - {type: variant, offset: 4419, length: 0, content: '', WYG: 畫竹家}
+  - {type: voice, offset: 4419, length: 6, name: note, id: n10}
   - {type: substitution, offset: 4420, original: 个, replacement: 個, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16172}}
   - {type: punctuation, offset: 4422, content: /, id: KR4d0473_krp_010-bkkpn33}
   - {type: variant, offset: 4422, length: 3, content: 畫竹家, WYG: ''}
@@ -2329,6 +2339,7 @@ markers:
   - {type: line-break, offset: 5060, content: '', id: KR4d0473_SBCK_010-20a10}
   - {type: punctuation, offset: 5072, content: (, id: KR4d0473_krp_010-bkkpn35}
   - {type: variant, offset: 5072, length: 0, content: '', WYG: 是夜亥正}
+  - {type: voice, offset: 5072, length: 10, name: note, id: n11}
   - {type: punctuation, offset: 5076, content: /, id: KR4d0473_krp_010-bkkpn36}
   - {type: variant, offset: 5076, length: 4, content: 是夜兵正, WYG: 甲}
   - {type: punctuation, offset: 5080, content: ), id: KR4d0473_krp_010-bkkpn37}
@@ -2581,6 +2592,7 @@ markers:
   - {type: indent, offset: 5626, content: 　　　, id: KR4d0473_krp_010-bkkind79}
   - {type: punctuation, offset: 5631, content: (, id: KR4d0473_krp_010-bkkpn41}
   - {type: variant, offset: 5631, length: 0, content: '', WYG: 繇東昌遇大水買舟}
+  - {type: voice, offset: 5631, length: 16, name: note, id: n12}
   - {type: punctuation, offset: 5639, content: /, id: KR4d0473_krp_010-bkkpn42}
   - {type: variant, offset: 5639, length: 8, content: 繇東昌遇大水買舟, WYG: ''}
   - {type: punctuation, offset: 5647, content: ), id: KR4d0473_krp_010-bkkpn43}
@@ -2708,6 +2720,7 @@ markers:
   - {type: substitution, offset: 5892, original: 聴, replacement: 聽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20717}}
   - {type: punctuation, offset: 5895, content: (, id: KR4d0473_krp_010-bkkpn44}
   - {type: variant, offset: 5895, length: 0, content: '', WYG: 饒州張待}
+  - {type: voice, offset: 5895, length: 8, name: note, id: n13}
   - {type: punctuation, offset: 5899, content: /, id: KR4d0473_krp_010-bkkpn45}
   - {type: variant, offset: 5899, length: 4, content: 饒州張待, WYG: ''}
   - {type: punctuation, offset: 5903, content: ), id: KR4d0473_krp_010-bkkpn46}
@@ -2825,4 +2838,4 @@ markers:
 
       ', id: KR4d0473_krp_010-bkkkrnewl517}
   back: []
-hash: sha256:81ed458afcbee79ca929cad6aed8b621b88f3b058566f1f800e4fdb5e275f8f1
+hash: sha256:79675a90cea5f313ffbb65a337e3b77b4022eebd0c34053eb7ed6fa22c14fd88

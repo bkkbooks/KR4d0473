@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0473_SBCK_042-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4d0473_SBCK_042-bkkind1}
   - {type: punctuation, offset: 2, content: (, id: KR4d0473_SBCK_042-bkkpn1}
+  - {type: voice, offset: 2, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 5, content: ), id: KR4d0473_SBCK_042-bkkpn2}
   - {type: 'kr:newline', offset: 5, content: '
 
@@ -20,6 +21,7 @@ markers:
   - {type: line-break, offset: 5, content: '', id: KR4d0473_SBCK_042-1a03}
   - {type: indent, offset: 5, content: 　　　, id: KR4d0473_SBCK_042-bkkind2}
   - {type: punctuation, offset: 11, content: (, id: KR4d0473_SBCK_042-bkkpn3}
+  - {type: voice, offset: 11, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 15, content: ), id: KR4d0473_SBCK_042-bkkpn4}
   - {type: 'kr:newline', offset: 15, content: '
 
@@ -127,6 +129,7 @@ markers:
   - {type: line-break, offset: 370, content: '', id: KR4d0473_SBCK_042-2a07}
   - {type: indent, offset: 370, content: 　　　, id: KR4d0473_SBCK_042-bkkind3}
   - {type: punctuation, offset: 374, content: (, id: KR4d0473_SBCK_042-bkkpn5}
+  - {type: voice, offset: 374, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 378, content: ), id: KR4d0473_SBCK_042-bkkpn6}
   - {type: 'kr:newline', offset: 378, content: '
 
@@ -255,6 +258,7 @@ markers:
   - {type: line-break, offset: 795, content: '', id: KR4d0473_SBCK_042-3b05}
   - {type: indent, offset: 795, content: 　　　, id: KR4d0473_SBCK_042-bkkind5}
   - {type: punctuation, offset: 801, content: (, id: KR4d0473_SBCK_042-bkkpn7}
+  - {type: voice, offset: 801, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 805, content: ), id: KR4d0473_SBCK_042-bkkpn8}
   - {type: 'kr:newline', offset: 805, content: '
 
@@ -2580,4 +2584,4 @@ markers:
 
       ', id: KR4d0473_SBCK_042-bkkkrnewl612}
   back: []
-hash: sha256:370c43a5fd1ef8ba9e0131a9f0e0f814ec9d3a953b832a89cac5b7e946362617
+hash: sha256:b1a74444f56ca105797a54ba14dffea8955e85eecce71ce72dba1680a4081aee

@@ -17,6 +17,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0473_SBCK_016-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4d0473_krp_016-bkkind1}
   - {type: punctuation, offset: 5, content: (, id: KR4d0473_krp_016-bkkpn1}
+  - {type: voice, offset: 5, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 7, content: ), id: KR4d0473_krp_016-bkkpn2}
   - {type: 'kr:newline', offset: 7, content: '
 
@@ -52,6 +53,7 @@ markers:
   - {type: punctuation, offset: 77, content: (, id: KR4d0473_krp_016-bkkpn3}
   - {type: variant, offset: 77, length: 0, content: '', WYG: 已入}
   - {type: substitution, offset: 77, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
+  - {type: voice, offset: 77, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 79, content: /, id: KR4d0473_krp_016-bkkpn4}
   - {type: variant, offset: 79, length: 2, content: 已入, WYG: ''}
   - {type: punctuation, offset: 81, content: ), id: KR4d0473_krp_016-bkkpn5}
@@ -705,6 +707,7 @@ markers:
   - {type: substitution, offset: 1574, original: 佀, replacement: 似, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16365}}
   - {type: punctuation, offset: 1581, content: (, id: KR4d0473_krp_016-bkkpn6}
   - {type: variant, offset: 1581, length: 0, content: '', WYG: 石下皆}
+  - {type: voice, offset: 1581, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 1584, content: /, id: KR4d0473_krp_016-bkkpn7}
   - {type: variant, offset: 1584, length: 3, content: 石下皆, WYG: ''}
   - {type: punctuation, offset: 1587, content: ), id: KR4d0473_krp_016-bkkpn8}
@@ -775,6 +778,7 @@ markers:
   - {type: line-break, offset: 1735, content: '', id: KR4d0473_SBCK_016-7b07}
   - {type: punctuation, offset: 1745, content: (, id: KR4d0473_krp_016-bkkpn9}
   - {type: variant, offset: 1745, length: 0, content: '', WYG: 彦威再醮一}
+  - {type: voice, offset: 1745, length: 10, name: note, id: n4}
   - {type: punctuation, offset: 1750, content: /, id: KR4d0473_krp_016-bkkpn10}
   - {type: variant, offset: 1750, length: 5, content: 彦威再醮一, WYG: ''}
   - {type: substitution, offset: 1750, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
@@ -873,6 +877,7 @@ markers:
   - {type: line-break, offset: 1929, content: '', id: KR4d0473_SBCK_016-8b02}
   - {type: punctuation, offset: 1943, content: (, id: KR4d0473_krp_016-bkkpn12}
   - {type: variant, offset: 1943, length: 0, content: '', WYG: 嘗除}
+  - {type: voice, offset: 1943, length: 15, name: note, id: n5}
   - {type: punctuation, offset: 1945, content: /, id: KR4d0473_krp_016-bkkpn13}
   - {type: variant, offset: 1945, length: 7, content: 嘗除樂意在承旨, WYG: ''}
   - {type: punctuation, offset: 1947, content: ), id: KR4d0473_krp_016-bkkpn14}
@@ -1130,6 +1135,7 @@ markers:
   - {type: substitution, offset: 2511, original: 闘, replacement: 鬪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20721}}
   - {type: punctuation, offset: 2522, content: (, id: KR4d0473_krp_016-bkkpn18}
   - {type: variant, offset: 2522, length: 0, content: '', WYG: 殿基水泉}
+  - {type: voice, offset: 2522, length: 17, name: note, id: n6}
   - {type: punctuation, offset: 2526, content: /, id: KR4d0473_krp_016-bkkpn19}
   - {type: variant, offset: 2526, length: 8, content: 殿基水泉其費鉅萬, WYG: ''}
   - {type: punctuation, offset: 2530, content: ), id: KR4d0473_krp_016-bkkpn20}
@@ -1183,6 +1189,7 @@ markers:
   - {type: line-break, offset: 2622, content: '', id: KR4d0473_SBCK_016-11a04}
   - {type: punctuation, offset: 2630, content: (, id: KR4d0473_krp_016-bkkpn24}
   - {type: variant, offset: 2630, length: 0, content: '', WYG: 華嚴洞下宗常㳺四}
+  - {type: voice, offset: 2630, length: 23, name: note, id: n7}
   - {type: punctuation, offset: 2638, content: /, id: KR4d0473_krp_016-bkkpn25}
   - {type: variant, offset: 2638, length: 11, content: 華嚴洞下宗常㳺四佛再世, WYG: ''}
   - {type: substitution, offset: 2644, original: 㳺, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20160}}
@@ -1625,6 +1632,7 @@ markers:
   - {type: substitution, offset: 3672, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: punctuation, offset: 3680, content: (, id: KR4d0473_krp_016-bkkpn30}
   - {type: variant, offset: 3680, length: 0, content: '', WYG: 故事}
+  - {type: voice, offset: 3680, length: 15, name: note, id: n8}
   - {type: punctuation, offset: 3682, content: /, id: KR4d0473_krp_016-bkkpn31}
   - {type: variant, offset: 3682, length: 7, content: 故事十兩始草制, WYG: ''}
   - {type: punctuation, offset: 3684, content: ), id: KR4d0473_krp_016-bkkpn32}
@@ -2453,6 +2461,7 @@ markers:
   - {type: line-break, offset: 5616, content: '', id: KR4d0473_SBCK_016-22a07}
   - {type: punctuation, offset: 5624, content: (, id: KR4d0473_krp_016-bkkpn36}
   - {type: variant, offset: 5624, length: 4, content: 羅浮未化, WYG: ''}
+  - {type: voice, offset: 5624, length: 9, name: note, id: n9}
   - {type: punctuation, offset: 5628, content: /, id: KR4d0473_krp_016-bkkpn37}
   - {type: punctuation, offset: 5633, content: ), id: KR4d0473_krp_016-bkkpn38}
   - {type: 'kr:newline', offset: 5633, content: '
@@ -2656,4 +2665,4 @@ markers:
 
       ', id: KR4d0473_krp_016-bkkkrnewl509}
   back: []
-hash: sha256:ea392983819d90616d41f6a646ece4e35327ff06649a53b9dc5811cb76f6a31b
+hash: sha256:2623752641a24bf5da7aab5220185d04a580e3d58d5f2added9d694d4ccd9d7f

@@ -17,6 +17,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0473_SBCK_004-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4d0473_krp_004-bkkind1}
   - {type: punctuation, offset: 2, content: (, id: KR4d0473_krp_004-bkkpn1}
+  - {type: voice, offset: 2, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 4, content: ), id: KR4d0473_krp_004-bkkpn2}
   - {type: 'kr:newline', offset: 4, content: '
 
@@ -382,6 +383,7 @@ markers:
   - {type: indent, offset: 902, content: 　　　, id: KR4d0473_krp_004-bkkind9}
   - {type: page-break, offset: 902, content: '', id: KR4d0473_WYG_004-4b, image: WYG1203/WYG1203-0047b.png}
   - {type: punctuation, offset: 908, content: (, id: KR4d0473_krp_004-bkkpn3}
+  - {type: voice, offset: 908, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 913, content: ), id: KR4d0473_krp_004-bkkpn4}
   - {type: 'kr:newline', offset: 913, content: '
 
@@ -544,6 +546,7 @@ markers:
   - {type: indent, offset: 1300, content: 　　　, id: KR4d0473_krp_004-bkkind14}
   - {type: punctuation, offset: 1306, content: (, id: KR4d0473_krp_004-bkkpn5}
   - {type: variant, offset: 1306, length: 0, content: '', WYG: 舊為翰}
+  - {type: voice, offset: 1306, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 1309, content: /, id: KR4d0473_krp_004-bkkpn6}
   - {type: variant, offset: 1309, length: 3, content: 舊為翰, WYG: ''}
   - {type: punctuation, offset: 1312, content: ), id: KR4d0473_krp_004-bkkpn7}
@@ -1990,6 +1993,7 @@ markers:
   - {type: line-break, offset: 5013, content: '', id: KR4d0473_SBCK_004-18b03}
   - {type: punctuation, offset: 5013, content: (, id: KR4d0473_krp_004-bkkpn8}
   - {type: variant, offset: 5013, length: 0, content: '', WYG: 往從虞伯生}
+  - {type: voice, offset: 5013, length: 9, name: note, id: n4}
   - {type: punctuation, offset: 5017, content: /, id: KR4d0473_krp_004-bkkpn9}
   - {type: variant, offset: 5017, length: 5, content: 徃從虞伯生, WYG: ''}
   - {type: substitution, offset: 5017, original: 徃, replacement: 往, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16735}}
@@ -3295,6 +3299,7 @@ markers:
   - {type: line-break, offset: 8298, content: '', id: KR4d0473_SBCK_004-30a10}
   - {type: punctuation, offset: 8298, content: (, id: KR4d0473_krp_004-bkkpn11}
   - {type: variant, offset: 8298, length: 0, content: '', WYG: 曽大父樞宻越公嘉定辛未與先生}
+  - {type: voice, offset: 8298, length: 153, name: note, id: n5}
   - {type: substitution, offset: 8302, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
   - {type: punctuation, offset: 8312, content: /, id: KR4d0473_krp_004-bkkpn12}
   - {type: variant, offset: 8312, length: 18, content: 曽大父樞宻越公嘉定辛未與先生併識于後, WYG: ''}
@@ -3463,4 +3468,4 @@ markers:
 
       ', id: KR4d0473_krp_004-bkkkrnewl672}
   back: []
-hash: sha256:42113432cb0ac20b32ea00eb86be718432a8c6f84637cdf82197d3e7fb8f427f
+hash: sha256:764d69517ea48880c6b366715ae427b51d32f79caa8bd4c2395dca41e95b9856

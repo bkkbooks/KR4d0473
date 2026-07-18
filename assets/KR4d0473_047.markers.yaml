@@ -281,6 +281,7 @@ markers:
   - {type: indent, offset: 710, content: 　　　, id: KR4d0473_krp_047-bkkind6}
   - {type: punctuation, offset: 715, content: (, id: KR4d0473_krp_047-bkkpn1}
   - {type: variant, offset: 715, length: 3, content: 府故蔵, WYG: ''}
+  - {type: voice, offset: 715, length: 6, name: note, id: n1}
   - {type: substitution, offset: 717, original: 蔵, replacement: 藏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20703}}
   - {type: punctuation, offset: 718, content: /, id: KR4d0473_krp_047-bkkpn2}
   - {type: substitution, offset: 720, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
@@ -380,6 +381,7 @@ markers:
   - {type: punctuation, offset: 963, content: (, id: KR4d0473_krp_047-bkkpn4}
   - {type: variant, offset: 963, length: 12, content: 譔自書契以訪唯文字象形鳥, WYG: ''}
   - {type: substitution, offset: 963, original: 譔, replacement: 撰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17718}}
+  - {type: voice, offset: 963, length: 29, name: note, id: n2}
   - {type: punctuation, offset: 975, content: /, id: KR4d0473_krp_047-bkkpn5}
   - {type: page-break, offset: 975, content: '', id: KR4d0473_WYG_047-4b, image: WYG1203/WYG1203-0617b.png}
   - {type: substitution, offset: 975, original: 叙, replacement: 敘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16962}}
@@ -1749,6 +1751,7 @@ markers:
   - {type: indent, offset: 4262, content: 　　　, id: KR4d0473_krp_047-bkkind32}
   - {type: punctuation, offset: 4264, content: (, id: KR4d0473_krp_047-bkkpn10}
   - {type: variant, offset: 4264, length: 4, content: 當塗所贊, WYG: ''}
+  - {type: voice, offset: 4264, length: 9, name: note, id: n3}
   - {type: variant, offset: 4266, length: 1, content: 所, SBCK: 􅀁}
   - {type: punctuation, offset: 4268, content: /, id: KR4d0473_krp_047-bkkpn11}
   - {type: punctuation, offset: 4273, content: ), id: KR4d0473_krp_047-bkkpn12}
@@ -2072,6 +2075,7 @@ markers:
   - {type: line-break, offset: 5053, content: '', id: KR4d0473_SBCK_047-18b04}
   - {type: punctuation, offset: 5053, content: (, id: KR4d0473_krp_047-bkkpn13}
   - {type: variant, offset: 5053, length: 0, content: '', WYG: 仁廟賜郝參政此圗}
+  - {type: voice, offset: 5053, length: 15, name: note, id: n4}
   - {type: punctuation, offset: 5060, content: /, id: KR4d0473_krp_047-bkkpn14}
   - {type: variant, offset: 5060, length: 8, content: 仁廟賜郝叅政此圗, WYG: ''}
   - {type: substitution, offset: 5064, original: 叅, replacement: 參, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19566}}
@@ -3143,4 +3147,4 @@ markers:
 
       ', id: KR4d0473_krp_047-bkkkrnewl600}
   back: []
-hash: sha256:82617852dbb85e977e095b4a4700cedd539b1ad5e63b7d161752ad2f43c85bee
+hash: sha256:0b974736cd2175e7578bea4c0577d050875e835ccbb010f90b4f38e0d42060fb

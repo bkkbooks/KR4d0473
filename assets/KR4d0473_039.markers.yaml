@@ -1810,6 +1810,7 @@ markers:
   - {type: substitution, offset: 4694, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 4696, content: (, id: KR4d0473_krp_039-bkkpn1}
   - {type: variant, offset: 4696, length: 0, content: '', WYG: 七月}
+  - {type: voice, offset: 4696, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 4698, content: /, id: KR4d0473_krp_039-bkkpn2}
   - {type: variant, offset: 4698, length: 2, content: 七月, WYG: ''}
   - {type: punctuation, offset: 4700, content: ), id: KR4d0473_krp_039-bkkpn3}
@@ -2469,4 +2470,4 @@ markers:
 
       ', id: KR4d0473_krp_039-bkkkrnewl465}
   back: []
-hash: sha256:b5023fea44521acb4b8a671b05cde3102e3709226bb39a124ec3eb821dd24a23
+hash: sha256:898f8a12a979560f5988c8fc0538774d937ceab9e12a7ec9689d2a2fe093202e
